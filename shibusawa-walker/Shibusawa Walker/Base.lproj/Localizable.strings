@@ -1,0 +1,79 @@
+/* 
+  Localizable.strings
+  Shibusawa Walker
+
+  Created by XOR Co. Ltd. on 1/3/17.
+  Copyright © 2017 XOR Co. Ltd. All rights reserved.
+*/
+
+//drawer menu items
+"feature_&_uses"        = "Features & Uses";
+"checkin_history"       = "Check-in History";
+"announcement"          = "Announcement";
+"museum_site"           = "Museum Site";
+"event_info"            = "Event Info";
+"facebook"              = "Facebook";
+"terms_of_use"          = "Terms of Use";
+"faq"                   = "FAQ";
+"version"               = "Version";
+
+"about_app" = "About App";
+"hotel_garden_access" = "Hotel Garden Access";
+"link_collection" = "Link Collection";
+
+"Top"                   = "Top";
+"Back"                  = "Back";
+//check in content
+"checkin_content"       = "チェックインコンテンツ";
+
+//who is si¥hibusawa eiichi
+"who_shibusawa_eiichi"  = "渋沢栄一とは";
+
+
+
+//home view
+"know_maker"            = "作った人を知る";
+"story_three_building"  = "建物３兄弟の話";
+"shibusawa_use"         = "渋沢栄一の利用";
+"shibusawa_walker"      = "しぶさわウォーカー";
+"building_details"      = "建物解説";
+
+//permission localize message
+"Access Required"       = "Access Required";
+"location_access_msg"   = "Enable location service from Settings->Privacy->Location Services";
+
+//checkin history
+"checkin_number"        = "チェックイン回数";
+
+//local notification
+"checkout_message"      = "You are currently being checkout, You need to checkin to access again";
+"closing_message"       = "Shibusawa garden will be closed within 30 minutes, Please checkout from garden within time";
+
+"eiichi_garden" = "渋沢栄一と旧渋沢庭園";
+"checkin_powerup" = "チェックインでアプリがパワーアップ \nお楽しみコンテンツ";
+"quiz" = "クイズ";
+
+"shibusawa_walker_garden_guide" = "しぶさわウォーカー \n旧渋沢庭園散策ガイド";
+"quiz_answer" = "クイズと答え";
+
+//How To view
+"howToTitleOne"="How To Title 1";
+"howToTitleTwo"="How To Title 2";
+"howToTitleThree"="How To Title 3";
+
+"howToDescOne"="How To Desc1.How To Desc1.How To Desc1.How To Desc1.How To Desc1.How To Desc1.How To Desc1.How To Desc1.How To Desc1.How To Desc1.How To Desc1.How To Desc1.";
+"howToDescTwo"="How To Desc2.How To Desc2.How To Desc2.How To Desc2.How To Desc2.How To Desc2.How To Desc2.How To Desc2.How To Desc2.";
+"howToDescThree"="How To Desc3.How To Desc3.How To Desc3.How To Desc3.How To Desc3.How To Desc3.How To Desc3.How To Desc3.How To Desc3.";
+
+
+"howToLastPageDissmissBtnTitle"="Dismiss";
+"howToNextPageBtnTitle"="Next";
+"howToPrevPageBtnTitle"="Previous";
+
+//alert text
+"Ok"                   = "Ok";
+
+//End To view
+
+
+

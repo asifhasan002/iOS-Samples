@@ -1,0 +1,18 @@
+/* 
+  Localizable.strings
+  Shibusawa Walker
+
+  Created by XOR Co. Ltd. on 1/3/17.
+  Copyright © 2017 XOR Co. Ltd. All rights reserved.
+*/
+
+//drawer menu items
+"about_app" = "About App";
+"hotel_garden_access" = "Hotel Garden Access";
+"link_collection" = "Link Collection";
+
+//home view
+"eiichi_garden" = "渋沢栄一と旧渋沢庭園";
+"checkin_powerup" = "チェックインでアプリがパワーアップ \nお楽しみコンテンツ";
+"who_shibusawa_eiichi" = "渋沢栄一とは";
+"quiz" = "クイズ";
