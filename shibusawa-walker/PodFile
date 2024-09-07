@@ -1,5 +1,0 @@
-target "Shibusawa Walker" do
-pod "FastttCamera"
-pod "FastttCamera/Filters"
-pod 'GoogleMaps'
-end
